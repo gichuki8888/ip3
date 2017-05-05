@@ -4,8 +4,11 @@
   padding:15px;
   margin-bottom: 14px;
   border: 3px solid purple;
-  text-align: center;
-  font-size: 30px;
+  text-align:center;
+  font-style: normal;
+  font-weight: bold;
+  font-family: fantasy;
+
 }
 .mimi{
   width: 300px;
